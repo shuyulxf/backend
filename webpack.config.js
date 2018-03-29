@@ -84,10 +84,10 @@ module.exports = {
         //      chunks: [""]
         // })
         //压缩js
-        new webpack.optimize.UglifyJsPlugin({
-            compress: {
-                warnings: false
-            }
-        })
+        // new webpack.optimize.UglifyJsPlugin({
+        //     compress: {
+        //         warnings: false
+        //     }
+        // })
     ]
 }

@@ -1,0 +1,2 @@
+- 启动服务 webpack-dev-server --hot --inline
+- 编译 webpack --watch
